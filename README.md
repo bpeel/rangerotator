@@ -2,7 +2,7 @@
 
 Range Rotator is a tiny LibreOffice Calc extension to provide a command to rotate the data in the current selection by 180°.
 
-It would probably make more sense to implement this as a macro in a high-level language. The code here is intended to be used just to compare performance in a bug report about how slow this is.
+It would probably make more sense to implement this as a macro in a high-level language. The code here is intended to be used just to compare performance in a [bug report](https://bugs.documentfoundation.org/show_bug.cgi?id=173022) about how slow this is.
 
 ## Building
 
