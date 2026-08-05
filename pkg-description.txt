@@ -1,0 +1,1 @@
+An extension for LibreOffice Calc that provides a command to rotate the current selection by 180°.
